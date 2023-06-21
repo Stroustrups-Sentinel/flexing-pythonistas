@@ -36,7 +36,7 @@ Although this sprint has high pressure in its execution, the goal is self-learni
 
 ## Instructions ✨
 
-1. Fork this repository 
+1. Clone this repository 
 2. Add your code and exercises to the appropriate week folder (in 4 Easy 👍 steps, making sure to `🚨🚨🚨 USE lowercase characters & hyphens'-' or underscores'_' on spaces ON folder names, the GitHub way ✅) 
    
    - 🌱 **STEP 1:** enter the respective **week** folder you're currently in, _e.g week 1 for beginners._  
