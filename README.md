@@ -1,9 +1,10 @@
-# Flexing-Pythonistas
+# Flexing-Pythonistas 😎
 
-
+<div align="center">
 <img src="https://th.bing.com/th/id/OIG.hdZOQzWhh2lw0wjEs2Q_?pid=ImgGn" width="33%" /> 
 <img src="https://th.bing.com/th/id/OIG.xNd.Nr3WN1mks4oDOD2k?pid=ImgGn" width="33%" />
 <img src="https://th.bing.com/th/id/OIG.vPMlOpJU_3jixxCwYWKy?pid=ImgGn" width="33%" />
+</div>
 
 # > 🎯 Learning Python in 4 weeks by cementing missing parts (Hard mode).
 
